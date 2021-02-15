@@ -1,5 +1,8 @@
 # HEAD-QA
 
+**NEWS!** HEAD-QA can be now imported from [huggingface datasets](https://huggingface.co/datasets/head_qa). Thank you very much to [Maria Grandury](https://github.com/mariagrandury) for adding it.
+
+
 This repository contains the sources used in "HEAD-QA: A Healthcare Dataset for Complex Reasoning" (ACL, 2019)
 
 HEAD-QA is a multi-choice **HEA**lthcare **D**ataset. The questions come from exams to access a specialized position in the Spanish healthcare system, and are challenging even for highly specialized humans. They are designed by the [Ministerio de Sanidad, Consumo y Bienestar Social](https://www.mscbs.gob.es/), who also provides direct [access](https://fse.mscbs.gob.es/fseweb/view/public/datosanteriores/cuadernosExamen/busquedaConvocatoria.xhtml) to the exams of the last 5 years (in Spanish). 
